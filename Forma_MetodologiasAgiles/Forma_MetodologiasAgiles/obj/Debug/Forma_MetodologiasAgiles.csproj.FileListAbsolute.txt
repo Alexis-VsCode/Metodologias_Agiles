@@ -1,0 +1,9 @@
+C:\Users\Gasparin-Mc\source\repos\Forma_MetodologiasAgiles\Forma_MetodologiasAgiles\bin\Debug\Forma_MetodologiasAgiles.exe
+C:\Users\Gasparin-Mc\source\repos\Forma_MetodologiasAgiles\Forma_MetodologiasAgiles\bin\Debug\Forma_MetodologiasAgiles.pdb
+C:\Users\Gasparin-Mc\source\repos\Forma_MetodologiasAgiles\Forma_MetodologiasAgiles\obj\Debug\Forma_MetodologiasAgiles.csprojAssemblyReference.cache
+C:\Users\Gasparin-Mc\source\repos\Forma_MetodologiasAgiles\Forma_MetodologiasAgiles\obj\Debug\Forma_MetodologiasAgiles.Form1.resources
+C:\Users\Gasparin-Mc\source\repos\Forma_MetodologiasAgiles\Forma_MetodologiasAgiles\obj\Debug\Forma_MetodologiasAgiles.Properties.Resources.resources
+C:\Users\Gasparin-Mc\source\repos\Forma_MetodologiasAgiles\Forma_MetodologiasAgiles\obj\Debug\Forma_MetodologiasAgiles.csproj.GenerateResource.cache
+C:\Users\Gasparin-Mc\source\repos\Forma_MetodologiasAgiles\Forma_MetodologiasAgiles\obj\Debug\Forma_MetodologiasAgiles.csproj.CoreCompileInputs.cache
+C:\Users\Gasparin-Mc\source\repos\Forma_MetodologiasAgiles\Forma_MetodologiasAgiles\obj\Debug\Forma_MetodologiasAgiles.exe
+C:\Users\Gasparin-Mc\source\repos\Forma_MetodologiasAgiles\Forma_MetodologiasAgiles\obj\Debug\Forma_MetodologiasAgiles.pdb
