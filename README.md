@@ -1,3 +1,2 @@
 # Metodologias_Agiles
-Esto Es Una Prueba De Metodologías Ágiles
-2
+Proyecto de la materia de metodologias agiles
